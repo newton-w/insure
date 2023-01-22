@@ -9,7 +9,7 @@ import { motion } from "framer-motion";
 
 function Home() {
   return (
-    <>
+    <main>
       <div className="showcase-container">
         <div className="showcase">
           <motion.div
@@ -108,7 +108,7 @@ function Home() {
           <a href="/">How we work</a>
         </div>
       </motion.div>
-    </>
+    </main>
   );
 }
 

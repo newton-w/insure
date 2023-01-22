@@ -8,6 +8,7 @@ import instagram from '../images/icon-instagram.svg'
 
 const Footer = () => {
     return (
+        <footer>
         <div className="footer">
             <div className="socials-container">
                 <img src={logo} alt="" />
@@ -21,34 +22,35 @@ const Footer = () => {
             <hr />
             <div className="links-container">
                 <div className="links">
-                    <h4>OUR COMPANY</h4>
+                    <h1>OUR COMPANY</h1>
                     <a href="/">HOW WE WORK</a>
                     <a href="/">WHY INSURE</a>
                     <a href="/">VIEW PLANS</a>
                     <a href="/">REVIEWS</a>
                 </div>
                 <div className="links">
-                    <h4>HELP ME</h4>
+                    <h1>HELP ME</h1>
                     <a href="/">FAQ</a>
                     <a href="/">TERMS OF USE</a>
                     <a href="/">PRIVACY POLICY</a>
                     <a href="/">COOKIES</a>
                 </div>
                 <div className="links">
-                    <h4>CONTACT</h4>
+                    <h1>CONTACT</h1>
                     <a href="/">SALES</a>
                     <a href="/">SUPPORT</a>
                     <a href="/">LIVE CHART</a>
                 </div>
                 <div className="links">
-                    <h4>OTHERS</h4>
+                    <h1>OTHERS</h1>
                     <a href="/">CAREES</a>
                     <a href="/">PRESS</a>
                     <a href="/">LICENCES</a>
                 </div>
             </div>
-            <div className="credits">&nbsp;Design by&nbsp;<a href="/" target="_blank" rel="noreferrer">FrontEnd Mentor</a>&nbsp;Coded by &nbsp;<a href="https://github.com/newton-w" target="_blank" rel="noreferrer">Newton_W</a></div>
+            <div className="credits">&nbsp;Design by&nbsp;<a href="https://frontendmentor.io" target="_blank" rel="noreferrer">FrontEnd Mentor</a>&nbsp;Coded by &nbsp;<a href="https://github.com/newton-w" target="_blank" rel="noreferrer">Newton_W</a></div>
         </div>
+        </footer>
     )
 }
 

@@ -244,8 +244,9 @@ nav {
   justify-content: center;
   gap: 21px;
 }
-.footer .links-container .links h4 {
+.footer .links-container .links h1 {
   padding-bottom: 21px;
+  font-size: 16px;
 }
 .footer .links a {
   text-decoration: none;
