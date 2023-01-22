@@ -5,7 +5,7 @@ import affordable from "../images/icon-affordable-prices.svg";
 import people from "../images/icon-people-first.svg";
 import desktopImage from "../images/image-intro-desktop.jpg";
 import mobileImage from "../images/image-intro-mobile.jpg";
-import { motion } from "framer-motion";
+import {motion} from 'framer-motion'
 
 function Home() {
   return (

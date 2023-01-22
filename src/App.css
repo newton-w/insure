@@ -108,6 +108,9 @@ nav {
   color: hsl(0, 0%, 98%);
   padding: 0 30px;
 }
+.showcase-text hr{
+  width: 150px;
+}
 .showcase-text h1 {
   font-family: "DM Serif Display", serif;
   font-weight: 400;
@@ -140,7 +143,6 @@ nav {
 }
 .services h1 {
   font-family: "DM Serif Display", serif;
-  /* border-top: 1px solid hsl(273, 4%, 51%); */
   color: hsl(273, 4%, 51%);
 }
 .services .cards-container {
