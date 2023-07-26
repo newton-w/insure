@@ -48,7 +48,7 @@ const Footer = () => {
                     <a href="/">LICENCES</a>
                 </div>
             </div>
-            <div className="credits">&nbsp;Design by&nbsp;<a href="/" rel="noreferrer">FrontEnd Mentor</a>&nbsp;Coded by &nbsp;<a href="/" rel="noreferrer">Newton_W</a></div>
+            <div className="credits">&nbsp;Design by&nbsp;<a href="/" rel="noreferrer">FrontEnd Mentor</a>&nbsp;Coded by &nbsp;<a href="/" rel="noreferrer">Nyiha</a></div>
         </div>
         </footer>
     )
